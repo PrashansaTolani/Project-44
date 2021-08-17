@@ -14,24 +14,24 @@ var coronaCount = 15;
 
 
 function preload(){
-coronaImg= loadImage("images/Corona.png");
-healthyPersonImg= loadImage("images/Healthy.png");
-sickPersonImg= loadImage("images/Sick.png");
+coronaImg= loadImage("Corona.png");
+healthyPersonImg= loadImage("Healthy.png");
+sickPersonImg= loadImage("Sick.png");
 
-  fruit_img = loadImage("images/Fruit.png");
-  steamInhaler_img = loadImage("images/Steam inhalation.png");
-  turmeric_milkImg = loadImage("images/turmeric milk.png");
-  nuts_img = loadImage("images/Nuts.png");
-  amla_img = loadImage("images/Amla.png");
+  fruit_img = loadImage("Fruit.png");
+  steamInhaler_img = loadImage("Steam inhalation.png");
+  turmeric_milkImg = loadImage("turmeric milk.png");
+  nuts_img = loadImage("Nuts.png");
+  amla_img = loadImage("Amla.png");
 
-  cocoCola_img = loadImage("images/coco cola.png");
-  pizza_img = loadImage("images/Pizza.png");
-  burgerImg = loadImage("images/Burger.png");
-  cake_img = loadImage("images/cake.png");
-  marshmallow_img = loadImage("images/marshmallow.png");
+  cocoCola_img = loadImage("coco cola.png");
+  pizza_img = loadImage("Pizza.png");
+  burgerImg = loadImage("Burger.png");
+  cake_img = loadImage("cake.png");
+  marshmallow_img = loadImage("marshmallow.png");
 
-  WonImg = loadImage("images/Won.png");
-  loseImg = loadImage("images/Gameover.png");
+  WonImg = loadImage("Won.png");
+  loseImg = loadImage("Gameover.png");
 
   healthyFoodGroup = new Group();
   unhealthyFoodGroup = new Group();
